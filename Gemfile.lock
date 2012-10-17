@@ -1,0 +1,15 @@
+GIT
+  remote: git://github.com/opentok/Opentok-Ruby-SDK.git
+  revision: 87a732cdc514e783a0772256ffc7716dede8b0ee
+  branch: rexml-parse-bug
+  specs:
+    opentok (0.0.91)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  opentok!
